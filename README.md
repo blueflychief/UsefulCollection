@@ -1,0 +1,2 @@
+# UsefulCollection
+some useful collection
